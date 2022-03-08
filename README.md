@@ -1,4 +1,4 @@
-# Projet 5 - "Produisez une étude de marché" - Parcours Data Analyst - OpenClassrooms
+# Projet 3 - "Produisez une étude de marché" - Parcours Data Analyst - OpenClassrooms
 
 Le but du projet est une étude sur le thème de la sous-nutrition dans le monde.
 Le problème de la faim est complexe et peut avoir de multiples causes, différentes selon les pays.
