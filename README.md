@@ -6,7 +6,7 @@ L’étape préliminaire de cette étude sera donc d’établir un “état de l
 mais également de mener une étude statistique destinée à orienter les recherches vers des pays particuliers,
 et de mettre en lumière différentes causes de la faim.
 
-### Compétence évalué
+### Compétences évalué
 - Utiliser une documentation technique
 - Utiliser les librairies spécialisées pour la Data Science
 - Récupérer des données à partir d'une source identifiée
